@@ -1,25 +1,23 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
-  margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font-family: "Avenir Next";
 }
 
-a {
-  text-decoration: none;
+/* list-styleプロパティを用いて、<li>要素の黒点を取り除いてください */
+li {
+  list-style: none;
 }
 
-.container {
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
 }
 
 .footer {
-  background-color: blue;
-  flot:left;
-  font-size: 10px;
-  
+  background-color: #ceccf3;
+  height: 270px;
 }

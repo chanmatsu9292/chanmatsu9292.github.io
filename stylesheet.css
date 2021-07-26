@@ -269,3 +269,9 @@ footer {
     width: 100%;
   }
 }
+
+p {
+    display: inline;
+    padding-bottom: 8px;
+    border-bottom: 2px dotted #0e6edf;
+}

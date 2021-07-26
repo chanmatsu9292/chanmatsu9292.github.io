@@ -32,5 +32,10 @@ span {
 }
   
 span:hover {
-  opacity: .5;
+  opacity: .3;
+}
+
+
+a:hover {
+  opacity: .5
 }

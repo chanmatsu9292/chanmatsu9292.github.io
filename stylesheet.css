@@ -271,7 +271,7 @@ footer {
 }
 
 p {
-    display: inline;
-    padding-bottom: 8px;
-    border-bottom: 2px dotted #0e6edf;
+    display: inline-block;
+    padding-bottom: 25px;
+    border-bottom: 2px double #0e6edf;
 }

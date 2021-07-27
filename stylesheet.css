@@ -278,7 +278,3 @@ p {
 
 
 
-txtarea::placeholder,
-input::placeholder {
-  color: red;
-}

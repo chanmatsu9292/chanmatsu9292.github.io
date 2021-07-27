@@ -275,3 +275,10 @@ p {
     padding-bottom: 3px;
     border-bottom: 2px double ;
 }
+
+
+
+txtarea::placeholder,
+input::placeholder {
+  color: red;
+}
